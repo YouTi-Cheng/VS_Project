@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\2.2_线性表的顺序表示">
+      <UniqueIdentifier>{baed51d9-a7b0-4a4a-a444-c6db9611f92a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\2.3_线性表的链式表示">
+      <UniqueIdentifier>{4d387a99-226f-40b1-987d-b9eaaaabdd45}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1顺序表删最小元素.cpp">
+      <Filter>源文件\2.2_线性表的顺序表示</Filter>
+    </ClCompile>
+    <ClCompile Include="0顺序表基础代码.cpp">
+      <Filter>源文件\2.2_线性表的顺序表示</Filter>
+    </ClCompile>
+    <ClCompile Include="2顺序表元素逆置.cpp">
+      <Filter>源文件\2.2_线性表的顺序表示</Filter>
+    </ClCompile>
+    <ClCompile Include="3顺序表元素删除.cpp">
+      <Filter>源文件\2.2_线性表的顺序表示</Filter>
+    </ClCompile>
+    <ClCompile Include="4顺序表删除范围元素.cpp">
+      <Filter>源文件\2.2_线性表的顺序表示</Filter>
+    </ClCompile>
+    <ClCompile Include="6两顺序表合并.cpp">
+      <Filter>源文件\2.2_线性表的顺序表示</Filter>
+    </ClCompile>
+    <ClCompile Include="5有序顺序表删重复元素.cpp">
+      <Filter>源文件\2.2_线性表的顺序表示</Filter>
+    </ClCompile>
+    <ClCompile Include="7数组AB变成数组BA.cpp">
+      <Filter>源文件\2.2_线性表的顺序表示</Filter>
+    </ClCompile>
+    <ClCompile Include="9综合题.cpp">
+      <Filter>源文件\2.2_线性表的顺序表示</Filter>
+    </ClCompile>
+    <ClCompile Include="_8有序顺序表快速查找.cpp">
+      <Filter>源文件\2.2_线性表的顺序表示</Filter>
+    </ClCompile>
+    <ClCompile Include="_10局部顺序表左循环.cpp">
+      <Filter>源文件\2.2_线性表的顺序表示</Filter>
+    </ClCompile>
+    <ClCompile Include="_11两有序数列找中位数.cpp">
+      <Filter>源文件\2.2_线性表的顺序表示</Filter>
+    </ClCompile>
+    <ClCompile Include="12.顺序表找主元素.cpp">
+      <Filter>源文件\2.2_线性表的顺序表示</Filter>
+    </ClCompile>
+    <ClCompile Include="0单链表基本代码.cpp">
+      <Filter>源文件\2.3_线性表的链式表示</Filter>
+    </ClCompile>
+    <ClCompile Include="1带头单链表删所有x的结点.cpp">
+      <Filter>源文件\2.3_线性表的链式表示</Filter>
+    </ClCompile>
+    <ClCompile Include="2删除单链表唯一最小值.cpp">
+      <Filter>源文件\2.3_线性表的链式表示</Filter>
+    </ClCompile>
+    <ClCompile Include="3单链表就地逆置.cpp">
+      <Filter>源文件\2.3_线性表的链式表示</Filter>
+    </ClCompile>
+    <ClCompile Include="4删除单链表规定范围值的元素.cpp">
+      <Filter>源文件\2.3_线性表的链式表示</Filter>
+    </ClCompile>
+    <ClCompile Include="5两个单链表找公共部分.cpp">
+      <Filter>源文件\2.3_线性表的链式表示</Filter>
+    </ClCompile>
+    <ClCompile Include="6单链表均匀拆成两个单链表.cpp">
+      <Filter>源文件\2.3_线性表的链式表示</Filter>
+    </ClCompile>
+    <ClCompile Include="15带环的单链表找环的入口结点.cpp">
+      <Filter>源文件\2.3_线性表的链式表示</Filter>
+    </ClCompile>
+    <ClCompile Include="16单链表最大孪生和.cpp">
+      <Filter>源文件\2.3_线性表的链式表示</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

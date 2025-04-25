@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tools\\Visual_Studio2022\\VisualStudioProject\\\u5236\u4F5C\u996E\u54C1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF139BA-A6A2-43E9-9E30-A7B107B190DA}|\u5236\u4F5C\u996E\u54C1\\\u5236\u4F5C\u996E\u54C1.vcxproj|D:\\Tools\\Visual_Studio2022\\VisualStudioProject\\\u5236\u4F5C\u996E\u54C1\\\u5236\u4F5C\u996E\u54C1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACF139BA-A6A2-43E9-9E30-A7B107B190DA}|\u5236\u4F5C\u996E\u54C1\\\u5236\u4F5C\u996E\u54C1.vcxproj|solutionrelative:\u5236\u4F5C\u996E\u54C1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 68,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Tools\\Visual_Studio2022\\VisualStudioProject\\\u5236\u4F5C\u996E\u54C1\\\u5236\u4F5C\u996E\u54C1\\main.cpp",
+              "RelativeDocumentMoniker": "\u5236\u4F5C\u996E\u54C1\\main.cpp",
+              "ToolTip": "D:\\Tools\\Visual_Studio2022\\VisualStudioProject\\\u5236\u4F5C\u996E\u54C1\\\u5236\u4F5C\u996E\u54C1\\main.cpp",
+              "RelativeToolTip": "\u5236\u4F5C\u996E\u54C1\\main.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T07:04:36.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tools\\Visual_Studio2022\\VisualStudioProject\\TakeTheStairs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B748BD90-4BBC-4FA0-9059-2A062CF2001B}|TakeTheStairs\\TakeTheStairs.vcxproj|D:\\Tools\\Visual_Studio2022\\VisualStudioProject\\TakeTheStairs\\TakeTheStairs\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B748BD90-4BBC-4FA0-9059-2A062CF2001B}|TakeTheStairs\\TakeTheStairs.vcxproj|solutionrelative:TakeTheStairs\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 68,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Tools\\Visual_Studio2022\\VisualStudioProject\\TakeTheStairs\\TakeTheStairs\\main.cpp",
+              "RelativeDocumentMoniker": "TakeTheStairs\\main.cpp",
+              "ToolTip": "D:\\Tools\\Visual_Studio2022\\VisualStudioProject\\TakeTheStairs\\TakeTheStairs\\main.cpp",
+              "RelativeToolTip": "TakeTheStairs\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T09:48:53.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
